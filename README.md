@@ -46,3 +46,10 @@ household_size=2, prev_savings=£5k
 | industryManufacturing | 2,200 | 0.038 | * |
 
 ## Stack
+R — plm, AER, sandwich (vcovHC), stargazer, ggplot2, psych, readxl
+## Data
+`panel_savings_1.csv` — simulated panel dataset (seed: 300362)
+
+## Module
+BEEM011 Applied Econometrics — University of Exeter, MSc Financial Technology
+
